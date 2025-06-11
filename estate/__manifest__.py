@@ -5,3 +5,5 @@
     'depends': ['base'],
     'application': True,
 }
+
+# test comment 2
